@@ -7,5 +7,5 @@ https://www.notion.so/2022-AHAR-Adaptive-CNN-for-Energy-Efficient-Human-Activity
 
 - Multi-STMT: Multi-Level Network for Human Activity Recognition Based on Wearable Sensors(진행중)
 
-https://www.notion.so/Multi-STMT-Multi-Level-Network-for-Human-Activity-Recognition-Based-on-Wearable-Sensors-35bee34486ae802685b1dc6de72bae78?source=copy_link
+  https://www.notion.so/Multi-STMT-Multi-Level-Network-for-Human-Activity-Recognition-Based-on-Wearable-  Sensors-35bee34486ae802685b1dc6de72bae78?source=copy_link
 ****
