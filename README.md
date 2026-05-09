@@ -4,7 +4,7 @@ https://www.notion.so/Variants-of-CNN-356ee34486ae8074adcae8063b32c0c2?source=co
 ## Paper Analysis
 - (2022) AHAR: Adaptive CNN for Energy-Efficient Human Activity Recognition in Low-Power Edge Devices
   
-[https://www.notion.so/2022-AHAR-Adaptive-CNN-for-Energy-Efficient-Human-Activity-Recognition-in-Low-Power-Edge-Devices-356ee34486ae800d98b7eb5a6d6fcb0f?source=copy_link]
+  [https://www.notion.so/2022-AHAR-Adaptive-CNN-for-Energy-Efficient-Human-Activity-Recognition-in-Low-Power-Edge-Devices-356ee34486ae800d98b7eb5a6d6fcb0f?source=copy_link]
 
 - Multi-STMT: Multi-Level Network for Human Activity Recognition Based on Wearable Sensors(진행중)
 
