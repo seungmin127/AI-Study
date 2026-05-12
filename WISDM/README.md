@@ -22,12 +22,10 @@
  - z-acceleration : z축 가속도
 
 하나의 raw data는 다음 형태로 구성됨
-
-(user, activity, timestamp, x, y, z)
+- (user, activity, timestamp, x, y, z)
 
 실제 데이터
-
-(33,Jogging,49105962326000,-0.6946377,12.680544,0.50395286;)
+- (33,Jogging,49105962326000,-0.6946377,12.680544,0.50395286;)
 
 ## WISDM Dataset의 주요 난제
 유사한 활동 간의 미세한 차이를 구분하기 어려움**
