@@ -35,8 +35,7 @@
    - x, y, z축 가속도 변화가 반복
    - 걷기와 유사한 패턴
    - 차이는 주로 충격 강도, 리듬, 축 방향 변화의 미세한 차이에서 나타남
- <img width="978" height="624" alt="image" src="https://github.com/user-attachments/assets/120bd32d-0f98-4ca3-bf62-8eb36eac20db" />
-3. WISDM은 walking, jogging 데이터가 많고 sitting, standing 데이터가 적음
+<img width="850" height="542" alt="image" src="https://github.com/user-attachments/assets/120bd32d-0f98-4ca3-bf62-8eb36eac20db" />****3. WISDM은 walking, 3. jogging 데이터가 많고 sitting, standing 데이터가 적음
       Activity counts:
    activity
    Walking       424397
