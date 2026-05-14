@@ -15,7 +15,7 @@
   
   [https://www.notion.so/CapMatch_Semi-Supervised_Contrastive_Transformer_Capsule_With_Feature-Based_Knowledge_Distillation_f-35aee34486ae80b8ac37e6d35f3a14f6?source=copy_link]
 
-- SelfVis: Self-Supervised Learning for Human Activity Recognition Based on Area Charts (진행중)
+- SelfVis: Self-Supervised Learning for Human Activity Recognition Based on Area Charts 
   
   [https://www.notion.so/SelfVis-Self-Supervised-Learning-for-Human-Activity-Recognition-Based-on-Area-Charts-35aee34486ae80b8ac37e6d35f3a14f6?source=copy_link]
   
