@@ -19,13 +19,17 @@
   
   [https://www.notion.so/SelfVis-Self-Supervised-Learning-for-Human-Activity-Recognition-Based-on-Area-Charts-35aee34486ae80b8ac37e6d35f3a14f6?source=copy_link]
 
-- WaveHAR: Learning Wavelet Representation for Wearable Human Activity Recognition (진행중)
+- WaveHAR: Learning Wavelet Representation for Wearable Human Activity Recognition 
   
   [https://www.notion.so/WaveHAR-Learning-Wavelet-Representation-for-Wearable-Human-Activity-Recognition-362ee34486ae8031ad70e7648c0ecd33?source=copy_link]
 
 - ActivityMamba: A CNN-Mamba Hybrid Neural Network for Efficient Human Activity Recognition (진행중)
   
   [https://www.notion.so/ActivityMamba-A-CNN-Mamba-Hybrid-Neural-Network-for-Efficient-Human-Activity-Recognition-363ee34486ae805bb93bc0ffafc42131?source=copy_link]
+
+- Revisiting Large-Kernel CNN Design via Structural Re-Parameterization for Sensor-Based HAR
+
+  [https://www.notion.so/Revisiting-Large-Kernel-CNN-Design-via-Structural-Re-Parameterization-for-Sensor-Based-HAR-365ee34486ae80a9b4d6d16e2120d2f7?source=copy_link]
   
 ****
 
