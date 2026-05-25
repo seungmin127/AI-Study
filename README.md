@@ -39,7 +39,7 @@
 
   [https://www.notion.so/Rotation-Robust-Self-Supervised-Learning-for-IMU-Based-HAR-with-Multi-Scale-Convolutional-Backbones-36aee34486ae80639e61ddac5aae3ff4?source=copy_link]
 
-  - HARMamba: Efficient and Lightweight Wearable Sensor Human Activity Recognition Based on Bidirectional Mamba
+- HARMamba: Efficient and Lightweight Wearable Sensor Human Activity Recognition Based on Bidirectional Mamba
 
   [https://www.notion.so/HARMamba-Efficient-and-Lightweight-Wearable-Sensor-Human-Activity-Recognition-Based-on-Bidirectiona-36bee34486ae80f9ac64c5d6cd8aa03b?source=copy_link]
   
