@@ -33,7 +33,7 @@
 
 - A Multitask Deep Learning Approach for Sensor-Based Human Activity Recognition and Segmentation
   
-  [https://www.notion.so/ActivityMamba-A-CNN-Mamba-Hybrid-Neural-Network-for-Efficient-Human-Activity-Recognition-363ee34486ae805bb93bc0ffafc42131?source=copy_link]
+  [https://www.notion.so/A-Multitask-Deep-Learning-Approach-for-Sensor-Based-Human-Activity-Recognition-and-Segmentation-36aee34486ae8024a738cff72bb08c00?source=copy_link]
 
 - Rotation-Robust Self-Supervised Learning for IMU-Based HAR with Multi-Scale Convolutional Backbones
 
