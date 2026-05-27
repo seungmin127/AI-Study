@@ -42,6 +42,11 @@
 - HARMamba: Efficient and Lightweight Wearable Sensor Human Activity Recognition Based on Bidirectional Mamba
 
   [https://www.notion.so/HARMamba-Efficient-and-Lightweight-Wearable-Sensor-Human-Activity-Recognition-Based-on-Bidirectiona-36bee34486ae80f9ac64c5d6cd8aa03b?source=copy_link]
+
+- P2LHAP: Wearable-Sensor-Based Human Activity Recognition, Segmentation, and Forecast Through Patch-to-Label Seq2Seq Transformer
+
+  [https://www.notion.so/P2LHAP-Wearable-Sensor-Based-Human-Activity-Recognition-Segmentation-and-Forecast-Through-Patch-t-36dee34486ae805f9365df8ab0553c65?source=copy_link]
+  
   
 ****
 
