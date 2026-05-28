@@ -46,7 +46,10 @@
 - P2LHAP: Wearable-Sensor-Based Human Activity Recognition, Segmentation, and Forecast Through Patch-to-Label Seq2Seq Transformer
 
   [https://www.notion.so/P2LHAP-Wearable-Sensor-Based-Human-Activity-Recognition-Segmentation-and-Forecast-Through-Patch-t-36dee34486ae805f9365df8ab0553c65?source=copy_link]
-  
+
+- Contrastive Learning for Zero-Shot Human Activity Recognition Using Labeled Simple Actions on Wearable Devices
+
+  [https://www.notion.so/Contrastive-Learning-for-Zero-Shot-Human-Activity-Recognition-Using-Labeled-Simple-Actions-on-Wearab-36eee34486ae80cf9354fe3a4a90c1ed?source=copy_link]
   
 ****
 
