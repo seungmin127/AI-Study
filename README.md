@@ -50,6 +50,9 @@
 - Contrastive Learning for Zero-Shot Human Activity Recognition Using Labeled Simple Actions on Wearable Devices
 
   [https://www.notion.so/Contrastive-Learning-for-Zero-Shot-Human-Activity-Recognition-Using-Labeled-Simple-Actions-on-Wearab-36eee34486ae80cf9354fe3a4a90c1ed?source=copy_link]
-  
+
+- Beyond 1×1 Convolutions: A Dynamic Select-and-Fuse Channel Sampling Strategy for On-Device Human Activity Recognition
+  [https://www.notion.so/Beyond-1-1-Convolutions-A-Dynamic-Select-and-Fuse-Channel-Sampling-Strategy-for-On-Device-Human-Act-387ee34486ae80b6a721c1222f84b394?v=bfdee34486ae83f7b79f8815bf1f1a3f&source=copy_link]
+
 ****
 
