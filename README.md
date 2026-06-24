@@ -54,5 +54,7 @@
 - Beyond 1×1 Convolutions: A Dynamic Select-and-Fuse Channel Sampling Strategy for On-Device Human Activity Recognition
   [https://www.notion.so/Beyond-1-1-Convolutions-A-Dynamic-Select-and-Fuse-Channel-Sampling-Strategy-for-On-Device-Human-Act-387ee34486ae80b6a721c1222f84b394?v=bfdee34486ae83f7b79f8815bf1f1a3f&source=copy_link]
 
+- Hierarchical Unsupervised Feature Extraction and Fusion of Multisensor for Human Activity Recognition
+  [https://www.notion.so/Hierarchical-Unsupervised-Feature-Extraction-and-Fusion-387ee34486ae801d95fbc8dfcdde6e38?source=copy_link]
 ****
 
