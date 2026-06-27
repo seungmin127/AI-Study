@@ -56,5 +56,8 @@
 
 - Hierarchical Unsupervised Feature Extraction and Fusion of Multisensor for Human Activity Recognition
   [https://www.notion.so/Hierarchical-Unsupervised-Feature-Extraction-and-Fusion-387ee34486ae801d95fbc8dfcdde6e38?source=copy_link]
+
+- Learning Sensor Sample-eweighting for Dynamic Early-Exit Activity Recognition Via Meta Learning (진행중)
+  [https://www.notion.so/Learning-Sensor-Sample-eweighting-for-Dynamic-Early-Exit-Activity-Recognition-Via-Meta-Learning-38cee34486ae80e98924efead7213d99?source=copy_link]
 ****
 
