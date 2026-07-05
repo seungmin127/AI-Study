@@ -59,5 +59,8 @@
 
 - Learning Sensor Sample-eweighting for Dynamic Early-Exit Activity Recognition Via Meta Learning 
   [https://www.notion.so/Learning-Sensor-Sample-eweighting-for-Dynamic-Early-Exit-Activity-Recognition-Via-Meta-Learning-38cee34486ae80e98924efead7213d99?source=copy_link]
+
+- SERA-HAR
+  [https://www.notion.so/SERA-HAR-393ee34486ae8068bf69dde66b25d6ee?source=copy_link]
 ****
 
