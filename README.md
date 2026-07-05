@@ -52,15 +52,19 @@
   [https://www.notion.so/Contrastive-Learning-for-Zero-Shot-Human-Activity-Recognition-Using-Labeled-Simple-Actions-on-Wearab-36eee34486ae80cf9354fe3a4a90c1ed?source=copy_link]
 
 - Beyond 1×1 Convolutions: A Dynamic Select-and-Fuse Channel Sampling Strategy for On-Device Human Activity Recognition
+- 
   [https://www.notion.so/Beyond-1-1-Convolutions-A-Dynamic-Select-and-Fuse-Channel-Sampling-Strategy-for-On-Device-Human-Act-387ee34486ae80b6a721c1222f84b394?v=bfdee34486ae83f7b79f8815bf1f1a3f&source=copy_link]
 
 - Hierarchical Unsupervised Feature Extraction and Fusion of Multisensor for Human Activity Recognition
+- 
   [https://www.notion.so/Hierarchical-Unsupervised-Feature-Extraction-and-Fusion-387ee34486ae801d95fbc8dfcdde6e38?source=copy_link]
 
-- Learning Sensor Sample-eweighting for Dynamic Early-Exit Activity Recognition Via Meta Learning 
+- Learning Sensor Sample-eweighting for Dynamic Early-Exit Activity Recognition Via Meta Learning
+- 
   [https://www.notion.so/Learning-Sensor-Sample-eweighting-for-Dynamic-Early-Exit-Activity-Recognition-Via-Meta-Learning-38cee34486ae80e98924efead7213d99?source=copy_link]
 
 - SERA-HAR
+- 
   [https://www.notion.so/SERA-HAR-393ee34486ae8068bf69dde66b25d6ee?source=copy_link]
 ****
 
