@@ -66,5 +66,9 @@
 - SERA-HAR
  
   [https://www.notion.so/SERA-HAR-393ee34486ae8068bf69dde66b25d6ee?source=copy_link]
+
+- Do we need early exit networks in human activity recognition?
+  
+  [https://www.notion.so/Do-we-need-early-exit-networks-in-human-activity-recognition-38fee34486ae80dcb693edc6a08ffc17?v=bfdee34486ae83f7b79f8815bf1f1a3f&source=copy_link]
 ****
 
