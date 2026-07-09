@@ -70,5 +70,9 @@
 - Do we need early exit networks in human activity recognition?
   
   [https://www.notion.so/Do-we-need-early-exit-networks-in-human-activity-recognition-38fee34486ae80dcb693edc6a08ffc17?v=bfdee34486ae83f7b79f8815bf1f1a3f&source=copy_link]
+
+- Improving Human Activity Recognition With Wearable Sensors Through BEE: Leveraging Early Exit and Gradient Boosting
+  
+  [https://www.notion.so/Improving-Human-Activity-Recognition-With-Wearable-Sensors-Through-BEE-Leveraging-Early-Exit-and-Gr-398ee34486ae80d4934bd571f86740c5?source=copy_link]
 ****
 
