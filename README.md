@@ -74,5 +74,14 @@
 - Improving Human Activity Recognition With Wearable Sensors Through BEE: Leveraging Early Exit and Gradient Boosting
   
   [https://www.notion.so/Improving-Human-Activity-Recognition-With-Wearable-Sensors-Through-BEE-Leveraging-Early-Exit-and-Gr-398ee34486ae80d4934bd571f86740c5?source=copy_link]
+
+- Ensemble early exit network on human activity recognition using wearable sensors
+
+  [https://www.notion.so/Ensemble-early-exit-network-on-human-activity-recognition-using-wearable-sensors-39bee34486ae80688e81f5dff5f30573?source=copy_link]
+
+- Improving Human Activity Recognition With Wearable Sensors Through BEE: Leveraging Early Exit and Gradient Boosting
+
+  [https://www.notion.so/Improving-Human-Activity-Recognition-With-Wearable-Sensors-Through-BEE-Leveraging-Early-Exit-and-Gr-398ee34486ae80d4934bd571f86740c5?source=copy_link]
+  
 ****
 
