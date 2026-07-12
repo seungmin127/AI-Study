@@ -79,9 +79,9 @@
 
   [https://www.notion.so/Ensemble-early-exit-network-on-human-activity-recognition-using-wearable-sensors-39bee34486ae80688e81f5dff5f30573?source=copy_link]
 
-- Improving Human Activity Recognition With Wearable Sensors Through BEE: Leveraging Early Exit and Gradient Boosting
+- Fixing deep early exit ensembles for sensor-based human activity recognition through uncertainty quantification
 
-  [https://www.notion.so/Improving-Human-Activity-Recognition-With-Wearable-Sensors-Through-BEE-Leveraging-Early-Exit-and-Gr-398ee34486ae80d4934bd571f86740c5?source=copy_link]
+  [https://www.notion.so/Fixing-deep-early-exit-ensembles-for-sensor-based-human-activity-recognition-through-uncertainty-qua-398ee34486ae8058bc35f5a95cfd54e7?v=bfdee34486ae83f7b79f8815bf1f1a3f&source=copy_link]
   
 ****
 
